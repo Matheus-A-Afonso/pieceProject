@@ -3,6 +3,7 @@ import {Text, View,Image,Button,StyleSheet,TouchableOpacity} from 'react-native'
 import { LinearGradient } from 'expo-linear-gradient';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { useNavigation } from '@react-navigation/native';
+
 class Login extends Component {
     
     render(){   
